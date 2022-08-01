@@ -1,0 +1,12 @@
+body{
+	background-color: red;
+	color:black;
+	padding: 10;
+
+}
+#image{
+	float: middle;
+}
+#description{
+	float:left;
+}
